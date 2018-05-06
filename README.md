@@ -8,7 +8,13 @@ read this :bowtie: [article](http://kbroman.org/github_tutorial/pages/why.html).
 
 In this repository you can see two projects:
  * Homepage
- * Resume 
+ * Resume
+
+CSS Libraries are Used:
+[semantic](https://semantic-ui.com/). 2.3. 
+
+JS Libraries:
+[jquery](http://jquery.com/) 3.3.1
  
 ### Structure
 
@@ -16,10 +22,8 @@ In this repository you can see two projects:
 homepage
 ├── README.md
 ├── index.html
-├──  js 
-     └── index.js
-├──  css
-     └── main.css
+├──  img 
+├──  semantic
 ```
 
 ### So just enjoy it!
