@@ -1,4 +1,4 @@
-# homepage
+# Homepage
 My very own personal website. Basically this is just a résumé.
 
 Hi, this is a simple project to demonstrate my skills on **git** and **github** . If you still do not know why **github** just   
